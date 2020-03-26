@@ -1,0 +1,17 @@
+{
+  "name": "socketiolab",
+  "version": "1.0.0",
+  "description": "Basic chat for lab",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "Vladislav Liubasiuk",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
